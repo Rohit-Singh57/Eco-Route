@@ -1,4 +1,4 @@
-# 🚦 QuantumFlow AI
+# 🚦 ECO ROUTE
 ### **Quantum-Inspired Smart Traffic Optimization Simulator**
 
 QuantumFlow AI is an educational, interactive smart-city operations and simulation dashboard focused on optimizing urban mobility grid networks. It simulates adaptive signal phase changes, green wave priority corridor calculations, and quantum-inspired optimizations to balance traffic flows.
